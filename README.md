@@ -1,1 +1,1 @@
-# Makaut exam login page clone.. using bootstrap
+# clone of Makaut exam login page using bootstrap
